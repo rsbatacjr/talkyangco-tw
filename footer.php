@@ -76,7 +76,7 @@
 										<li><a href="">学生经理</a></li>
 										<li><a href="">Talk’每餐</a></li>
 										<li><a href="">在菲律賓</a></li>
-										<!-- <li><a href="">Best Student &amp; Teacher</a></li> -->
+										<li><a href="">Best Student &amp; Teacher</a></li>
 									</ul>
 								</div>
 							</div>
