@@ -86,6 +86,7 @@ get_header();
 	<div class="row">
 		<div id="notice-container" class="col-xs-12 col-md-4">
 			<div id="notice">
+				<a href="http://talk-academy.tw/notice/" style="text-decoration: none; color: #fff;">
 				<strong>公告</strong>
 				<p>
 					在学习Talk之前，您可以查看TALK的消息。 这将有助于您决定在TALK学院学习英语
@@ -97,10 +98,9 @@ get_header();
 							<span class="next-button"></span>
 						</div>
 					</div>
+					</a>
 					<ul id="notice-list">
-						<li><a href="#">5월 입학가능일 안내</a></li>
-						<li><a href="#">노용이 화난 날(Warning)</a></li>
-						<li><a href="#">노용이 소리 질른 날..ㅋㅋ</a></li>
+						<?php do_shortcode('[show_topThree post_type="news"]'); ?>
 					</ul>
 				</div>
 			</div>
