@@ -1,6 +1,6 @@
 <?php
 require_once('wp_bootstrap_navwalker.php');
-define('HOME_PAGE', "http://talkyangco.dev:7000");
+define('HOME_PAGE', "http://talk-academy.tw");
 define('THEME_URI', get_template_directory_uri());
 require_once('manage-schedule.php');
 require_once('manage-weblinks.php');
@@ -330,6 +330,26 @@ function listByPostType() {
         			<td></td>
         		</tr>
         	";
+        endwhile;
+    }
+
+    echo $htmlResult;
+}
+
+add_shortcode( 'show_topThree', 'show_topThree_func' );
+function show_topThree_func($atts, $content = null) {
+	$htmlResult = "";
+	$a = shortcode_atts(array(
+        'post_type'=>'inside-philippines'
+    ), $atts);
+	wp_reset_query();
+    $args=array('post_type'=>$a['post_type'],'order'=>'DESC', 'posts_per_page' => 3);
+    $loop=new WP_Query($args);
+
+    if($loop->have_posts()){
+    	$col = 0;
+        while($loop->have_posts()):$loop->the_post();
+        	$htmlResult .= '<li><a href="'.get_permalink().'">'.get_the_title().'</a></li>';
         endwhile;
     }
 

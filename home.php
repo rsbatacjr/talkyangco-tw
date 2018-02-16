@@ -86,7 +86,7 @@ get_header();
 	<div class="row">
 		<div id="notice-container" class="col-xs-12 col-md-4">
 			<div id="notice">
-				<a href="http://talk-academy.tw/notice/" style="text-decoration: none; color: #fff;">
+				<a href="http://talk-academy.tw/news/" style="text-decoration: none; color: #fff;">
 				<strong>公告</strong>
 				<p>
 					在学习Talk之前，您可以查看TALK的消息。 这将有助于您决定在TALK学院学习英语
