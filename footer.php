@@ -5,11 +5,11 @@
 							<div class="row">
 								<div class="col-md-2">
 									<ul>
-										<li><a href="/about-us/">介绍</a></li>
+										<li><a href="/about-us/">介紹</a></li>
 										<li>&nbsp;</li>
-										<li><a href="http://talk-academy.tw/about-us/">关于我们</a></li>
-										<li><a href="http://talk-academy.tw/greetings/">问候</a></li>
-										<li><a href="http://talk-academy.tw/strengths/">优势</a></li>
+										<li><a href="http://talk-academy.tw/about-us/">關於我們</a></li>
+										<li><a href="http://talk-academy.tw/greetings/">問候</a></li>
+										<li><a href="http://talk-academy.tw/strengths/">優勢</a></li>
 										<li><a href="http://talk-academy.tw/location/">位置</a></li>
 									</ul>
 								</div>
@@ -17,65 +17,65 @@
 									<ul>
 										<li><a href="/procedure/">過程</a></li>
 										<li>&nbsp;</li>
-										<li><a href="http://talk-academy.tw/procedure/">程序</a></li>
-										<li><a href="http://talk-academy.tw/about-preparation/">关于准备</a></li>
+										<li><a href="http://talk-academy.tw/procedure/">程式</a></li>
+										<li><a href="http://talk-academy.tw/about-preparation/">關於準備</a></li>
 										<li><a href="http://talk-academy.tw/faqs/">FAQ</a></li>
-										<li><a href="http://talk-academy.tw/medical-and-insurance/">医药和保险系统</a></li>
-										<li><a href="http://talk-academy.tw/way-to-baguio/">如何来碧瑶</a></li>
-										<li><a href="http://talk-academy.tw/campaigns/">竞技</a></li>
+										<li><a href="http://talk-academy.tw/medical-and-insurance/">醫藥和保險系統</a></li>
+										<li><a href="http://talk-academy.tw/way-to-baguio/">如何來碧瑤</a></li>
+										<li><a href="http://talk-academy.tw/campaigns/">競技</a></li>
 									</ul>
 								</div>
 								<div class="col-md-2">
 									<ul>
-										<li><a href="/tuition-fee/">注册</a></li>
+										<li><a href="/tuition-fee/">註冊</a></li>
 										<li>&nbsp;</li>
-										<li><a href="http://talk-academy.tw/tuition-fee/">学费</a></li>
-										<li><a href="http://talk-academy.tw/dormitory-type/">宿舍类型</a></li>
-										<li><a href="http://talk-academy.tw/miscellaneous-fee/">其他费用</a></li>
-										<li><a href="http://talk-academy.tw/ielts-official-test-dates/">IELTS官方考试日期</a></li>
-										<li><a href="http://talk-academy.tw/toeic-official-test-dates/">TOEIC官方考试日期</a></li>
-										<li><a href="http://talk-academy.tw/philippine-holiday/">菲律宾假日</a></li>
-										<li><a href="http://talk-academy.tw/official-pickup-dates/">官方接机日</a></li>
-										<li><a href="http://talk-academy.tw/refund-policy/">退费政策</a></li>
-										<li><a href="http://talk-academy.tw/online-registration/">电子申请书(现在注册)</a></li>
+										<li><a href="http://talk-academy.tw/tuition-fee/">學費</a></li>
+										<li><a href="http://talk-academy.tw/dormitory-type/">宿舍類型</a></li>
+										<li><a href="http://talk-academy.tw/miscellaneous-fee/">其他費用</a></li>
+										<li><a href="http://talk-academy.tw/ielts-official-test-dates/">IELTS官方考試日期</a></li>
+										<li><a href="http://talk-academy.tw/toeic-official-test-dates/">TOEIC官方考試日期</a></li>
+										<li><a href="http://talk-academy.tw/philippine-holiday/">菲律賓假日</a></li>
+										<li><a href="http://talk-academy.tw/official-pickup-dates/">官方接機日</a></li>
+										<li><a href="http://talk-academy.tw/refund-policy/">退費政策</a></li>
+										<li><a href="http://talk-academy.tw/online-registration/">電子申請書（現在註冊）</a></li>
 									</ul>
 								</div>
 								<div class="col-md-2">
 									<ul>
-										<li><a href="/more-about-talk/">Talk的课程</a></li>
+										<li><a href="/more-about-talk/">Talk 的課程</a></li>
 										<li>&nbsp;</li>
 										<li><a href="http://talk-academy.tw/yangco-esl/">ESL 421, 521, 611</a></li>
-										<li><a href="http://talk-academy.tw/ielts/">强化 IELTS</a></li>
-										<li><a href="http://talk-academy.tw/toiec/">强化 TOEIC</a></li>
-										<li><a href="http://talk-academy.tw/power-speaking/">强化口说</a></li>
+										<li><a href="http://talk-academy.tw/ielts/">強化 IELTS</a></li>
+										<li><a href="http://talk-academy.tw/toiec/">強化 TOEIC</a></li>
+										<li><a href="http://talk-academy.tw/power-speaking/">強化口語</a></li>
 										<li><a href="http://talk-academy.tw/job-ready-en/">打工度假</a></li>
 										<li><a href="http://talk-academy.tw/family-esl-en/">家庭 ESL</a></li>
-										<li><a href="http://talk-academy.tw/online-consultation/">联系我们</a></li>
+										<li><a href="http://talk-academy.tw/online-consultation/">聯繫我們</a></li>
 									</ul>
 								</div>
 								<div class="col-md-2">
 									<ul>
-										<li><a href="/philippine-language-study-plan/">联系我们</a></li>
+										<li><a href="/philippine-language-study-plan/">聯繫我們</a></li>
 										<li>&nbsp;</li>
-										<li><a href="http://talk-academy.tw/toeic-test/">TOEIC 考试</a></li>
-										<li><a href="http://talk-academy.tw/ielts-test/">IELTS 考试</a></li>
-										<li><a href="http://talk-academy.tw/intensive-speaking/">强化口说</a></li>
-										<li><a href="http://talk-academy.tw/short-term-study/">短期(1-3周)学习</a></li>
-										<li><a href="http://talk-academy.tw/long-term-study/">长期学习</a></li>
-										<li><a href="http://talk-academy.tw/best-price/">最优价格</a></li>
-										<li><a href="http://talk-academy.tw/philippines-and-other-countries/">组合在菲律宾，澳大利亚和加拿大学习英语</a></li>
+										<li><a href="http://talk-academy.tw/toeic-test/">TOEIC 考試</a></li>
+										<li><a href="http://talk-academy.tw/ielts-test/">IELTS 考試</a></li>
+										<li><a href="http://talk-academy.tw/intensive-speaking/">強化口語</a></li>
+										<li><a href="http://talk-academy.tw/short-term-study/">短期（1-3周）學習</a></li>
+										<li><a href="http://talk-academy.tw/long-term-study/">長期學習</a></li>
+										<li><a href="http://talk-academy.tw/best-price/">最優價格</a></li>
+										<li><a href="http://talk-academy.tw/philippines-and-other-countries/">組合在菲律賓,澳大利亞和加拿大學習英語</a></li>
 									</ul>
 								</div>
 								<div class="col-md-2">
 									<ul>
-										<li><a href="/notice/">社区</a></li>
+										<li><a href="/notice/">社區</a></li>
 										<li>&nbsp;</li>
 										<li><a href="http://talk-academy.tw/notice/">公告</a></li>
-										<li><a href="http://talk-academy.tw/experiences/">学生经理</a></li>
-										<li><a href="http://talk-academy.tw/meals/">Talk’每餐</a></li>
+										<li><a href="http://talk-academy.tw/experiences/">學生經理</a></li>
+										<li><a href="http://talk-academy.tw/meals/">Talk 每餐</a></li>
 										<li><a href="http://talk-academy.tw/inside-philippine/">在菲律賓</a></li>
-										<li><a href="ttp://talk-academy.tw/best-students-and-teachers/">Best Student &amp; Teacher</a></li>
-						                <li><a href="http://talk-academy.tw/travels/">Travel</a></li>
+										<li><a href="ttp://talk-academy.tw/best-students-and-teachers/">最佳老師和學生</a></li>
+						                <li><a href="http://talk-academy.tw/travels/">旅遊</a></li>
 									</ul>
 								</div>
 							</div>

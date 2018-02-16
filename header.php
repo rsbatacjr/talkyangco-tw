@@ -67,7 +67,7 @@
                     <ul class="nav navbar-nav">
 
                      <li class="dropdown-submenu">
-                      <li><a href="/about-us/">介绍</a></li>
+                      <li><a href="/about-us/">介紹</a></li>
                        <ul class="dropdown-menu">
 										<li><a href="http://talk-academy.tw/about-us/">关于我们</a></li>
 										<li><a href="http://talk-academy.tw/greetings/">问候</a></li>
@@ -89,7 +89,7 @@
 		    </li>
 
                      <li class="dropdown-submenu">
-                      <li><a href="/tuition-fee/">注册</a></li>
+                      <li><a href="/tuition-fee/">註冊</a></li>
                        <ul class="dropdown-menu">
 										<li><a href="http://talk-academy.tw/tuition-fee/">学费</a></li>
 										<li><a href="http://talk-academy.tw/dormitory-type/">宿舍类型</a></li>
@@ -105,7 +105,7 @@
 
 
                      <li class="dropdown-submenu">
-                      <li><a href="/more-about-talk/">Talk的课程</a></li>
+                      <li><a href="/more-about-talk/">Talk的課程</a></li>
                        <ul class="dropdown-menu">
 										<li><a href="http://talk-academy.tw/yangco-esl/">ESL 421, 521, 611</a></li>
 										<li><a href="http://talk-academy.tw/ielts/">强化 IELTS</a></li>
@@ -119,7 +119,7 @@
 
 
                      <li class="dropdown-submenu">
-                      <li><a href="/philippine-language-study-plan/">联系我们</a></li>
+                      <li><a href="/philippine-language-study-plan/">聯繫我們</a></li>
                        <ul class="dropdown-menu">
 										<li><a href="http://talk-academy.tw/toeic-test/">TOEIC 考试</a></li>
 										<li><a href="http://talk-academy.tw/ielts-test/">IELTS 考试</a></li>
@@ -133,7 +133,7 @@
 
 
                      <li class="dropdown-submenu">
-                      <li><a href="/notice/">社区</a></li>
+                      <li><a href="/notice/">社區</a></li>
                        <ul class="dropdown-menu">
 										<li><a href="http://talk-academy.tw/notice/">公告</a></li>
 										<li><a href="http://talk-academy.tw/experiences/">学生经理</a></li>
