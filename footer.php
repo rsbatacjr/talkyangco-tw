@@ -22,7 +22,7 @@
 										<li><a href="http://talk-academy.tw/faqs/">FAQ</a></li>
 										<li><a href="http://talk-academy.tw/medical-and-insurance/">醫藥和保險系統</a></li>
 										<li><a href="http://talk-academy.tw/way-to-baguio/">如何來碧瑤</a></li>
-										<li><a href="http://talk-academy.tw/campaigns/">競技</a></li>
+										<li><a href="http://talk-academy.tw/campaign/">競技</a></li>
 									</ul>
 								</div>
 								<div class="col-md-2">
@@ -48,8 +48,8 @@
 										<li><a href="http://talk-academy.tw/ielts/">強化 IELTS</a></li>
 										<li><a href="http://talk-academy.tw/toiec/">強化 TOEIC</a></li>
 										<li><a href="http://talk-academy.tw/power-speaking/">強化口語</a></li>
-										<li><a href="http://talk-academy.tw/job-ready-en/">打工度假</a></li>
-										<li><a href="http://talk-academy.tw/family-esl-en/">家庭 ESL</a></li>
+										<li><a href="http://talk-academy.tw/job-ready/">打工度假</a></li>
+										<li><a href="http://talk-academy.tw/family-esl/">家庭 ESL</a></li>
 										<li><a href="http://talk-academy.tw/online-consultation/">聯繫我們</a></li>
 									</ul>
 								</div>
@@ -68,14 +68,14 @@
 								</div>
 								<div class="col-md-2">
 									<ul>
-										<li><a href="/notice/">社區</a></li>
+										<li><a href="/news/">社區</a></li>
 										<li>&nbsp;</li>
-										<li><a href="http://talk-academy.tw/notice/">公告</a></li>
-										<li><a href="http://talk-academy.tw/experiences/">學生經理</a></li>
-										<li><a href="http://talk-academy.tw/meals/">Talk 每餐</a></li>
-										<li><a href="http://talk-academy.tw/inside-philippine/">在菲律賓</a></li>
+										<li><a href="http://talk-academy.tw/news/">公告</a></li>
+										<li><a href="http://talk-academy.tw/experience/">學生經理</a></li>
+										<li><a href="http://talk-academy.tw/meal/">Talk 每餐</a></li>
+										<li><a href="http://talk-academy.tw/inside-philippines/">在菲律賓</a></li>
 										<li><a href="ttp://talk-academy.tw/best-students-and-teachers/">最佳老師和學生</a></li>
-						                <li><a href="http://talk-academy.tw/travels/">旅遊</a></li>
+						                <li><a href="http://talk-academy.tw/travel/">旅遊</a></li>
 									</ul>
 								</div>
 							</div>

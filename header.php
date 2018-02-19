@@ -34,72 +34,72 @@
                 <a id="logo" class="navbar-brand" href="<?php echo HOME_PAGE; ?>"><img src="<?php echo THEME_URI; ?>/img/talk-logo.png" style="width:48px !important; height:48px !important;position:absolute; top: 1px;left:1px"></a>
                 <ul class="nav navbar-nav">
                   <li class="dropdown-submenu">
-                    <a href="http://talk-academy.com/about-us/">About TALK</a>
+                    <a href="http://talk-academy.tw/about-us/">About TALK</a>
                     <ul class="dropdown-menu">
-                      <li><a href="http://talk-academy.com/about-us/">About TALK</a></li>
-                      <li><a href="http://talk-academy.com/greetings/">Greetings</a></li>
-                      <li><a href="http://talk-academy.com/strengths/">Strengths</a></li>
-                      <li><a href="http://talk-academy.com/location/">Location</a></li>
+                      <li><a href="http://talk-academy.tw/about-us/">About TALK</a></li>
+                      <li><a href="http://talk-academy.tw/greetings/">Greetings</a></li>
+                      <li><a href="http://talk-academy.tw/strengths/">Strengths</a></li>
+                      <li><a href="http://talk-academy.tw/location/">Location</a></li>
                     </ul>
                   </li>
                   <li class="dropdown-submenu">
                     <a href="/procedure/">Process</a>
                     <ul class="dropdown-menu">
-                      <li><a href="http://talk-academy.com/procedure/">Process</a></li>
-                      <li><a href="http://talk-academy.com/about-preparation/">About Preparation</a></li>
-                      <li><a href="http://talk-academy.com/faq/">FAQ</a></li>
-                      <li><a href="http://talk-academy.com/medical-and-insurance/">Medical and Insurance</a></li>
-                      <li><a href="http://talk-academy.com/way-to-baguio/">Way to Baguio</a></li>
-                      <li><a href="http://talk-academy.com/campaigns/">Campaign</a></li>
+                      <li><a href="http://talk-academy.tw/procedure/">Process</a></li>
+                      <li><a href="http://talk-academy.tw/about-preparation/">About Preparation</a></li>
+                      <li><a href="http://talk-academy.tw/faq/">FAQ</a></li>
+                      <li><a href="http://talk-academy.tw/medical-and-insurance/">Medical and Insurance</a></li>
+                      <li><a href="http://talk-academy.tw/way-to-baguio/">Way to Baguio</a></li>
+                      <li><a href="http://talk-academy.tw/campaign/">Campaign</a></li>
                     </ul>
                   </li>
                   <li class="dropdown-submenu">
                     <a href="/tuition-fee/">Tuition Fee</a>
                     <ul class="dropdown-menu">
-                      <li><a href="http://talk-academy.com/tuition-fee/">Tuition Fee</a></li>
-                      <li><a href="http://talk-academy.com/dormitory-type/">Dormitory</a></li>
-                      <li><a href="http://talk-academy.com/miscellaneous-fee/">Miscellaneous Fee</a></li>
-                      <li><a href="http://talk-academy.com/ielts-official-test-dates/">IELTS Test Dates</a></li>
-                      <li><a href="http://talk-academy.com/toeic-official-test-dates/">TOEIC Test Dates</a></li>
-                      <li><a href="http://talk-academy.com/philippine-holiday/">Phlippines Holiday</a></li>
-                      <li><a href="http://talk-academy.com/official-pickup-dates/">Official Pickup Dates</a></li>
-                      <li><a href="http://talk-academy.com/refund-policy/">Refund Policy</a></li>
-                      <li><a href="http://talk-academy.com/online-registration/">Online Registration</a></li>
+                      <li><a href="http://talk-academy.tw/tuition-fee/">Tuition Fee</a></li>
+                      <li><a href="http://talk-academy.tw/dormitory-type/">Dormitory</a></li>
+                      <li><a href="http://talk-academy.tw/miscellaneous-fee/">Miscellaneous Fee</a></li>
+                      <li><a href="http://talk-academy.tw/ielts-official-test-dates/">IELTS Test Dates</a></li>
+                      <li><a href="http://talk-academy.tw/toeic-official-test-dates/">TOEIC Test Dates</a></li>
+                      <li><a href="http://talk-academy.tw/philippine-holiday/">Phlippines Holiday</a></li>
+                      <li><a href="http://talk-academy.tw/official-pickup-dates/">Official Pickup Dates</a></li>
+                      <li><a href="http://talk-academy.tw/refund-policy/">Refund Policy</a></li>
+                      <li><a href="http://talk-academy.tw/online-registration/">Online Registration</a></li>
                     </ul>
                   </li>
                   <li class="dropdown-submenu">
                     <a href="/more-about-talk">More About TALK</a>
                     <ul class="dropdown-menu">
-                      <li><a href="http://talk-academy.com/yangco-esl/">ESL 421, 521, 611</a></li>
-                      <li><a href="http://talk-academy.com/ielts/">IELTS</a></li>
-                      <li><a href="http://talk-academy.com/toiec/">TOEIC</a></li>
-                      <li><a href="http://talk-academy.com/power-speaking/">Power Speaking</a></li>
-                      <li><a href="http://talk-academy.com/job-ready-en/">Working Holiday</a></li>
-                      <li><a href="http://talk-academy.com/family-esl-en/">Family ESL</a></li>
-                      <li><a href="http://talk-academy.com/online-consultation/">Online Registration</a></li>
+                      <li><a href="http://talk-academy.tw/yangco-esl/">ESL 421, 521, 611</a></li>
+                      <li><a href="http://talk-academy.tw/ielts/">IELTS</a></li>
+                      <li><a href="http://talk-academy.tw/toiec/">TOEIC</a></li>
+                      <li><a href="http://talk-academy.tw/power-speaking/">Power Speaking</a></li>
+                      <li><a href="http://talk-academy.tw/job-ready/">Working Holiday</a></li>
+                      <li><a href="http://talk-academy.tw/family-esl/">Family ESL</a></li>
+                      <li><a href="http://talk-academy.tw/online-consultation/">Online Registration</a></li>
                     </ul>
                   </li>
                   <li class="dropdown-submenu">
                     <a href="/philippine-language-study-plan">Plans</a>
                     <ul class="dropdown-menu">
-                      <li><a href="http://talk-academy.com/toeic-test-en/">TOEIC Test</a></li>
-                      <li><a href="http://talk-academy.com/ielts-test/">IELTS Test</a></li>
-                      <li><a href="http://talk-academy.com/intensive-speaking-en/">Intensive Speaking</a></li>
-                      <li><a href="http://talk-academy.com/short-term-study/">Short Term Study</a></li>
-                      <li><a href="http://talk-academy.com/long-term-study/">Long Term Study</a></li>
-                      <li><a href="http://talk-academy.com/best-price/">Best Price</a></li>
-                      <li><a href="http://talk-academy.com/philippines-and-other-countries/">Philippines and Other Countries</a></li>
+                      <li><a href="http://talk-academy.tw/toeic-test/">TOEIC Test</a></li>
+                      <li><a href="http://talk-academy.tw/ielts-test/">IELTS Test</a></li>
+                      <li><a href="http://talk-academy.tw/intensive-speaking/">Intensive Speaking</a></li>
+                      <li><a href="http://talk-academy.tw/short-term-study/">Short Term Study</a></li>
+                      <li><a href="http://talk-academy.tw/long-term-study/">Long Term Study</a></li>
+                      <li><a href="http://talk-academy.tw/best-price/">Best Price</a></li>
+                      <li><a href="http://talk-academy.tw/philippines-and-other-countries/">Philippines and Other Countries</a></li>
                     </ul>
                   </li>
                   <li class="dropdown-submenu">
-                    <a href="/notice/">Community</a>
+                    <a href="/news/">Community</a>
                     <ul class="dropdown-menu">
-                      <li><a href="http://talk-academy.com/notice/">News</a></li>
-                      <li><a href="http://talk-academy.com/experiences/">Experiences</a></li>
-                      <li><a href="http://talk-academy.com/meals/">Meals</a></li>
-                      <li><a href="http://talk-academy.com/inside-philippine/">Inside Philippines</a></li>
-                      <li><a href="http://talk-academy.com/best-students-and-teachers/">Best Students and Teachers</a></li>
-                      <li><a href="http://talk-academy.com/travels/">Travels</a></li>
+                      <li><a href="http://talk-academy.tw/news/">News</a></li>
+                      <li><a href="http://talk-academy.tw/experiences/">Experiences</a></li>
+                      <li><a href="http://talk-academy.tw/meals/">Meals</a></li>
+                      <li><a href="http://talk-academy.tw/inside-philippine/">Inside Philippines</a></li>
+                      <li><a href="http://talk-academy.tw/best-students-and-teachers/">Best Students and Teachers</a></li>
+                      <li><a href="http://talk-academy.tw/travels/">Travels</a></li>
                     </ul>
                   </li>
                 </ul>
@@ -192,7 +192,7 @@
 										<li><a href="http://talk-academy.tw/faqs/">FAQ</a></li>
 										<li><a href="http://talk-academy.tw/medical-and-insurance/">医药和保险系统</a></li>
 										<li><a href="http://talk-academy.tw/way-to-baguio/">如何来碧瑶</a></li>
-										<li><a href="http://talk-academy.tw/campaigns/">竞技</a></li>
+										<li><a href="http://talk-academy.tw/campaign/">竞技</a></li>
 			</ul>
 		    </li>
 
@@ -219,8 +219,8 @@
 										<li><a href="http://talk-academy.tw/ielts/">强化 IELTS</a></li>
 										<li><a href="http://talk-academy.tw/toiec/">强化 TOEIC</a></li>
 										<li><a href="http://talk-academy.tw/power-speaking/">强化口说</a></li>
-										<li><a href="http://talk-academy.tw/job-ready-en/">打工度假</a></li>
-										<li><a href="http://talk-academy.tw/family-esl-en/">家庭 ESL</a></li>
+										<li><a href="http://talk-academy.tw/job-ready/">打工度假</a></li>
+										<li><a href="http://talk-academy.tw/family-esl/">家庭 ESL</a></li>
 										<li><a href="http://talk-academy.tw/online-consultation/">联系我们</a></li>
                             </ul>
                           </li>
@@ -241,14 +241,14 @@
 
 
                      <li class="dropdown-submenu">
-                      <li><a href="/notice/">社區</a></li>
+                      <li><a href="/news/">社區</a></li>
                        <ul class="dropdown-menu">
-										<li><a href="http://talk-academy.tw/notice/">公告</a></li>
-										<li><a href="http://talk-academy.tw/experiences/">学生经理</a></li>
-										<li><a href="http://talk-academy.tw/meals/">Talk’每餐</a></li>
-										<li><a href="http://talk-academy.tw/inside-philippine/">在菲律賓</a></li>
+										<li><a href="http://talk-academy.tw/news/">公告</a></li>
+										<li><a href="http://talk-academy.tw/experience/">学生经理</a></li>
+										<li><a href="http://talk-academy.tw/meal/">Talk’每餐</a></li>
+										<li><a href="http://talk-academy.tw/inside-philippines/">在菲律賓</a></li>
 										<li><a href="ttp://talk-academy.tw/best-students-and-teachers/">Best Student &amp; Teacher</a></li>
-						                <li><a href="http://talk-academy.tw/travels/">Travel</a></li>
+						                <li><a href="http://talk-academy.tw/travel/">Travel</a></li>
                             </ul>
                           </li>
 
