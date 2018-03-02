@@ -266,7 +266,13 @@ get_header();
 	</div>
 </div>
 <div class="row">
-	<img src="<?php echo THEME_URI; ?>/img/sample-image1.png" class="img-responsive"/>
+	<div class="col-xs-12">
+		<?php do_shortcode("[show_footerImages post_type='inside-philippines']"); ?>
+	</div>
+	<!-- <img src="<?php echo THEME_URI; ?>/img/sample-image1.png" class="img-responsive"/> -->
+</div>
+<div class="row">
+	<div class="col-xs-12 clearfix">&nbsp;</div>
 </div>
 <?php 
 get_footer();
