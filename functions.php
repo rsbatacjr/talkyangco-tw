@@ -336,6 +336,48 @@ function listByPostType() {
     echo $htmlResult;
 }
 
+add_shortcode( 'show_footerImages', 'show_footerImages_func' );
+function show_footerImages_func($atts, $content = null) {
+	$a = shortcode_atts(array(
+        'post_type'=>'inside-philippines'
+    ), $atts);
+	$htmlResult = "";
+	$post_type = get_post_meta(get_the_ID(), "category", true);
+	wp_reset_query();
+    $args=array('post_type'=>$a['post_type'],'order'=>'DESC', 'posts_per_page'=>12);
+    $loop=new WP_Query($args);
+
+    if($loop->have_posts()){
+    	$col = 0;
+        while($loop->have_posts()):$loop->the_post();
+        	if(has_post_thumbnail($loop->ID)){
+        		$thumbnail=wp_get_attachment_image_src(get_post_thumbnail_id($loop->ID),'single-post-thumbnail');;
+        	} else {
+	        	$thumbnail='';
+	        }
+
+        	$col++;
+        	if ($col == 1) {
+        		$htmlResult.="<div class='row'>";
+        	}
+        	$htmlResult.="<div class='col-xs-4 col-md-2' style='margin-bottom: 10px;".($col == 1 ? "padding-right: 5px" : ($col == 6 ? "padding-left: 5px" : "padding-left: 10px; padding-right: 10px"))."'>
+        					<div class='footer-image' style='width: 100%; max-height: 200px; position: relative; overflow: hidden'>
+	        					<a href='".get_permalink()."'>
+	        						<img  src='$thumbnail[0]' style='position:absolute;top:-25px; width: 100%; height:250px;'><br>
+	    						</a>
+    						</div>
+        				  </div>";
+
+        	if ($col == 6) {
+        		$htmlResult.="</div>";
+        		$col=0;
+        	}
+        endwhile;
+    }
+
+    echo $htmlResult;
+}
+
 add_shortcode( 'show_topThree', 'show_topThree_func' );
 function show_topThree_func($atts, $content = null) {
 	$htmlResult = "";
