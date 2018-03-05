@@ -48,7 +48,7 @@ get_header();
 		<div id="about-container" class="col-xs-12 col-sm-6 col-md-4">
 			<div id="about" onclick="javascript:window.location = 'http://3d.jesolution.co.kr/canitalk/talk_yangco/';">
 				<div class="mask">
-					<h2>關於TALK</h2>
+					<h2 style='background-color:transparent'>關於TALK</h2>
 					<div id="about-normal">
 						<p>預覽TALK的教室和宿舍</p>
 						<span class="plus-sign">+</span>
@@ -68,7 +68,7 @@ get_header();
 		<div id="experience-container" class="col-xs-12 col-sm-6 col-md-4">
 			<div id="experience" onclick="javascript:window.location = 'http://talk-academy.tw/experiences/';">
 				<div class="mask">
-					<h2>學生經歷</h2>
+					<h2 style='background-color:transparent'>學生經歷</h2>
 					<div id="experience-normal">
 						<p>在 TALK 學院分享你的生活</p>
 						<span class="plus-sign">+</span>
