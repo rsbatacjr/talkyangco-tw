@@ -74,7 +74,7 @@
 										<li><a href="http://talk-academy.tw/experience/">學生經理</a></li>
 										<li><a href="http://talk-academy.tw/meal/">Talk 每餐</a></li>
 										<li><a href="http://talk-academy.tw/inside-philippines/">在菲律賓</a></li>
-										<li><a href="ttp://talk-academy.tw/best-students-and-teachers/">最佳老師和學生</a></li>
+										<li><a href="http://talk-academy.tw/best-students-and-teachers/">最佳老師和學生</a></li>
 						                <li><a href="http://talk-academy.tw/travel/">旅遊</a></li>
 									</ul>
 								</div>

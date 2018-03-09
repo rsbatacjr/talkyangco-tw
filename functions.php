@@ -7,6 +7,12 @@ require_once('manage-weblinks.php');
 
 add_theme_support( 'html5', array( 'comment-list', 'comment-form', 'search-form', 'gallery', 'caption' ) );
 
+function kia_add_favicon(){ ?>
+    <!-- Custom Favicons -->
+    <link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri();?>/favicon.ico"/>
+    <?php }
+add_action('wp_head','kia_add_favicon');
+
 function talk_content_filter($content)
 {
 	$type = get_post_type();
@@ -398,23 +404,42 @@ function listGalleryImage($galleryfield) {
 function listByPostType() {
 	$htmlResult = "";
 	$post_type = get_post_meta(get_the_ID(), "category", true);
+	$paged = ( get_query_var( 'paged' ) ) ? get_query_var( 'paged' ) : 1;
+
 	wp_reset_query();
-    $args=array('post_type'=>$post_type,'order'=>'DESC');
+    $args=array('post_type'=>$post_type,'order'=>'DESC', 'posts_per_page' => 12, 'paged' => $paged);
     $loop=new WP_Query($args);
 
     if($loop->have_posts()){
+    	$col = 0;
         while($loop->have_posts()):$loop->the_post();
-        	$htmlResult.=
-        	"
-        		<tr>
-        			<td>".get_the_ID()."</td>
-        			<td><a class=grey-link href='".get_permalink()."'>".get_the_title()."</a></td>
-        			<td>".get_the_author()."</td>
-        			<td>".get_the_date('Y.m.d')."</td>
-        			<td></td>
-        		</tr>
-        	";
+        	if(has_post_thumbnail($loop->ID)){
+        		$thumbnail=wp_get_attachment_image_src(get_post_thumbnail_id($loop->ID),'single-post-thumbnail');;
+        	} else {
+	        	$thumbnail='';
+	        }
+
+        	$col++;
+        	if ($col == 1) {
+        		$htmlResult.="<div class='row'>";
+        	}
+        	$htmlResult.="<div class='col-xs-12 col-md-6' style='margin-bottom: 15px;'>
+        					<a href='".get_permalink()."'>
+        						<img src='$thumbnail[0]' style='display: block; max-width:100%; max-height:200px; width: auto; height: auto; margin: 0 auto;'><br>
+        						<h2>".get_the_title()."</h2>
+        						<p>".get_the_excerpt()."</p>
+    						</a>
+        				  </div>";
+
+        	if ($col == 2) {
+        		$htmlResult.="</div>";
+        		$col=0;
+        	}
         endwhile;
+$htmlResult.=next_posts_link();
+$htmlResult.=previous_posts_link();
+	?>
+<?php
     }
 
     echo $htmlResult;

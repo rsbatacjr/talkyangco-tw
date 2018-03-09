@@ -6,7 +6,7 @@ Version: 2
 Author: Reynaldo S. Batac Jr.
 Author Email: reynaldo.batac@outlook.com
 */
-
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
 .mobile-fonts {
 	font-size: 71%;
 }
@@ -429,11 +429,11 @@ footer #footer-menu ul {
 	list-style: none;
 	padding: 0;
 }
-footer .footer-menu ul li {
+footer #footer-menu ul li {
 	line-height: 25px !important;
 	font-size: 11px !important;
 }
-footer .footer-menu ul li a {
+footer #footer-menu ul li a {
 	color: #fff;
 }
 	.plan-list {
